@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FRID DB", "FRID DB\FRID DB.sqlproj", "{DAB7B959-52A7-4D20-8B62-101899321811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB7B959-52A7-4D20-8B62-101899321811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7B959-52A7-4D20-8B62-101899321811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB7B959-52A7-4D20-8B62-101899321811}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DAB7B959-52A7-4D20-8B62-101899321811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB7B959-52A7-4D20-8B62-101899321811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB7B959-52A7-4D20-8B62-101899321811}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920FD819-0EE8-4983-94CA-AC3FE3FD67B6}
+	EndGlobalSection
+EndGlobal
